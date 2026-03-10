@@ -2,6 +2,7 @@
 👋 Hi, I'm Rohan
 
 🚀 MERN Stack Developer passionate about building full-stack web applications.
+
 📚 Currently improving my problem-solving skills and learning advanced React concepts.  
 🔧 I enjoy building scalable applications and working on real-world projects.
 
