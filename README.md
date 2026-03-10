@@ -1,6 +1,5 @@
 # 💫 About Me:
 Hi 👋 I'm Rohan Rawat
-
 🚀 MERN Stack Developer focused on building modern and scalable web applications.
 
 ⚡ Tech Stack
