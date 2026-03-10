@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 My name is Rohan Rawat. I am a MERN stack developer with hands-on experience in building full-stack web applications using MongoDB, Express.js, React.js, and Node.js. I have built projects such as a task manager application and a food delivery website where I implemented features like authentication, CRUD operations, and responsive UI. I enjoy learning new technologies and improving my problem-solving skills. As a fresher, I am looking for an opportunity where I can apply my skills, gain industry experience, and contribute to building impactful applications.
 
 
